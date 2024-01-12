@@ -1,7 +1,7 @@
 {
   "name": "@wilson1234567891962/my-library",
   "private": false,
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
