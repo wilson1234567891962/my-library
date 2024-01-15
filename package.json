@@ -1,6 +1,6 @@
 {
-  "name": "simple-component-library",
-  "version": "2.0.0",
+  "name": "alejo-chat-bot",
+  "version": "2.0.2",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": ["dist"],
