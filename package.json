@@ -1,6 +1,6 @@
 {
   "name": "@wilson1234567891962/my-chatbot-alejo",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": ["dist"],
@@ -9,7 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
      "react-scripts": "1.1.4",
-    "react-test-renderer": "^16.3.2"
+    "react-test-renderer": "^18.2.0"
   },
   "peerDependencies": {
     "react": "^18.2.0",
