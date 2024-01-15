@@ -1,6 +1,6 @@
 {
   "name": "@wilson1234567891962/my-chatbot-alejo",
-  "version": "2.0.5",
+  "version": "2.0.8",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": ["dist"],
